@@ -1,0 +1,196 @@
+# Wikipedia article | year | latitude | longitude | representative place | theme
+World_War_II|1939|52.23|21.01|Warsaw, Poland|War & conflict
+Vietnam_War|1955|21.03|105.85|Hanoi, Vietnam|War & conflict
+Korean_War|1950|37.57|126.98|Seoul, South Korea|War & conflict
+Cold_War|1947|52.52|13.40|Berlin, representative Cold War frontier|War & conflict
+Russian_Revolution|1917|59.93|30.34|Petrograd, now Saint Petersburg|Revolutions & independence
+French_Revolution|1789|48.86|2.35|Paris, France|Revolutions & independence
+American_Revolution|1775|42.36|-71.06|Boston, Massachusetts|Revolutions & independence
+United_States_Declaration_of_Independence|1776|39.95|-75.15|Philadelphia, United States|Revolutions & independence
+American_Civil_War|1861|32.75|-79.87|Fort Sumter, South Carolina|War & conflict
+Emancipation_Proclamation|1863|38.90|-77.04|Washington, DC|Rights & society
+Thirteenth_Amendment_to_the_United_States_Constitution|1865|38.90|-77.04|Washington, DC|Rights & society
+Civil_Rights_Act_of_1964|1964|38.90|-77.04|Washington, DC|Rights & society
+Voting_Rights_Act_of_1965|1965|38.90|-77.04|Washington, DC|Rights & society
+Montgomery_bus_boycott|1955|32.37|-86.30|Montgomery, Alabama|Rights & society
+March_on_Washington_for_Jobs_and_Freedom|1963|38.89|-77.05|Washington, DC|Rights & society
+Women's_suffrage_in_New_Zealand|1893|-41.29|174.78|Wellington, New Zealand|Rights & society
+Universal_Declaration_of_Human_Rights|1948|48.86|2.29|Paris, France|Rights & society
+Magna_Carta|1215|51.44|-0.56|Runnymede, England|Rights & society
+English_Civil_War|1642|52.59|-0.25|England, representative location|War & conflict
+Glorious_Revolution|1688|51.51|-0.13|London, England|Revolutions & independence
+Bill_of_Rights_1689|1689|51.50|-0.12|Westminster, London|Rights & society
+Seven_Years'_War|1756|50.08|14.44|Central Europe, representative location|War & conflict
+Thirty_Years'_War|1618|50.09|14.40|Prague, Bohemia|War & conflict
+Peace_of_Westphalia|1648|51.96|7.63|Münster, Germany|Diplomacy & government
+Congress_of_Vienna|1815|48.21|16.37|Vienna, Austria|Diplomacy & government
+Napoleonic_Wars|1803|48.86|2.35|Paris, France, representative location|War & conflict
+Battle_of_Waterloo|1815|50.68|4.41|Waterloo, Belgium|War & conflict
+Franco-Prussian_War|1870|48.86|2.35|France, representative location|War & conflict
+Unification_of_Germany|1871|48.80|2.12|Versailles, proclamation site|Revolutions & independence
+Unification_of_Italy|1861|45.07|7.69|Turin, Italy|Revolutions & independence
+Revolutions_of_1848|1848|48.86|2.35|Paris, one of many centers|Revolutions & independence
+Treaty_of_Versailles|1919|48.80|2.12|Versailles, France|Diplomacy & government
+League_of_Nations|1920|46.23|6.14|Geneva, Switzerland|Diplomacy & government
+Great_Depression|1929|40.71|-74.01|New York, financial center|Economy & trade
+Wall_Street_Crash_of_1929|1929|40.71|-74.01|New York, United States|Economy & trade
+New_Deal|1933|38.90|-77.04|Washington, DC|Economy & trade
+The_Holocaust|1941|50.04|19.18|Auschwitz, representative memorial site|War & conflict
+Attack_on_Pearl_Harbor|1941|21.37|-157.95|Pearl Harbor, Hawaii|War & conflict
+Atomic_bombings_of_Hiroshima_and_Nagasaki|1945|34.39|132.45|Hiroshima, Japan; also Nagasaki|War & conflict
+Normandy_landings|1944|49.37|-0.88|Normandy, France|War & conflict
+Battle_of_Stalingrad|1942|48.71|44.51|Stalingrad, now Volgograd|War & conflict
+Battle_of_Britain|1940|51.51|-0.13|Britain, representative location|War & conflict
+Invasion_of_Poland|1939|52.23|21.01|Poland, representative location|War & conflict
+Marshall_Plan|1948|38.90|-77.04|Washington, DC, policy center|Economy & trade
+Berlin_Blockade|1948|52.52|13.40|Berlin, Germany|War & conflict
+Cuban_Missile_Crisis|1962|23.11|-82.37|Cuba, representative location|War & conflict
+Cuban_Revolution|1959|23.11|-82.37|Havana, Cuba|Revolutions & independence
+Chinese_Communist_Revolution|1949|39.91|116.40|Beijing, China|Revolutions & independence
+Xinhai_Revolution|1911|30.55|114.31|Wuchang, now Wuhan|Revolutions & independence
+Taiping_Rebellion|1850|23.59|110.08|Jintian, Guangxi, China|War & conflict
+First_Opium_War|1839|23.13|113.26|Guangzhou, China|War & conflict
+Boxer_Rebellion|1899|39.91|116.40|Northern China, representative location|War & conflict
+Cultural_Revolution|1966|39.91|116.40|Beijing, China|Turning points
+Great_Leap_Forward|1958|39.91|116.40|China, representative policy center|Turning points
+Chinese_economic_reform|1978|39.91|116.40|Beijing, China|Economy & trade
+1989_Tiananmen_Square_protests_and_massacre|1989|39.91|116.40|Beijing, China|Rights & society
+Mongol_invasion_of_Europe|1241|50.08|19.94|Central Europe, representative location|War & conflict
+Fall_of_Constantinople|1453|41.01|28.98|Constantinople, now Istanbul|War & conflict
+Ottoman_Empire|1299|40.02|30.18|Söğüt, Anatolia, traditional foundation region|Civilizations
+Battle_of_Manzikert|1071|39.15|42.54|Manzikert, now Malazgirt|War & conflict
+First_Crusade|1096|41.01|28.98|Eastern Mediterranean, representative location|War & conflict
+Crusades|1095|45.78|3.08|Clermont, France, proclamation site|War & conflict
+Reconquista|1492|37.18|-3.60|Granada, final conquest|War & conflict
+Spanish_conquest_of_the_Aztec_Empire|1521|19.43|-99.13|Tenochtitlan, now Mexico City|War & conflict
+Spanish_conquest_of_the_Inca_Empire|1532|-7.16|-78.52|Cajamarca, Peru|War & conflict
+Inca_Empire|1438|-13.52|-71.98|Cusco, Peru|Civilizations
+Machu_Picchu|1450|-13.16|-72.55|Andes, Peru|Art & culture
+Mexican_War_of_Independence|1810|21.16|-100.93|Dolores Hidalgo, Mexico|Revolutions & independence
+Mexican_Revolution|1910|19.43|-99.13|Mexico, representative location|Revolutions & independence
+Independence_of_Brazil|1822|-23.58|-46.61|São Paulo, Brazil|Revolutions & independence
+Spanish_American_wars_of_independence|1808|-0.18|-78.47|Quito, one of many revolutionary centers|Revolutions & independence
+Argentine_War_of_Independence|1810|-34.60|-58.38|Buenos Aires, Argentina|Revolutions & independence
+Chilean_War_of_Independence|1810|-33.45|-70.67|Santiago, Chile|Revolutions & independence
+Indian_Rebellion_of_1857|1857|28.98|77.71|Meerut, India|Revolutions & independence
+Salt_March|1930|20.88|72.80|Dandi, India|Revolutions & independence
+Quit_India_Movement|1942|18.96|72.81|Bombay, now Mumbai|Revolutions & independence
+Bangladesh_Liberation_War|1971|23.81|90.41|Dhaka, Bangladesh|Revolutions & independence
+Sri_Lankan_Civil_War|1983|6.93|79.86|Sri Lanka, representative location|War & conflict
+Suez_Crisis|1956|30.59|32.27|Suez Canal, Egypt|War & conflict
+Iranian_Revolution|1979|35.69|51.39|Tehran, Iran|Revolutions & independence
+Iran–Iraq_War|1980|30.51|47.82|Iraq–Iran border, representative location|War & conflict
+Gulf_War|1990|29.38|47.99|Kuwait City, Kuwait|War & conflict
+Iraq_War|2003|33.32|44.37|Baghdad, Iraq|War & conflict
+Soviet–Afghan_War|1979|34.56|69.21|Kabul, Afghanistan|War & conflict
+War_in_Afghanistan_(2001–2021)|2001|34.56|69.21|Afghanistan, representative location|War & conflict
+Israeli_Declaration_of_Independence|1948|32.06|34.77|Tel Aviv, declaration site|Revolutions & independence
+1948_Arab–Israeli_War|1948|31.77|35.21|Palestine, representative location|War & conflict
+Nakba|1948|31.77|35.21|Palestine, representative location|Rights & society
+Six-Day_War|1967|31.77|35.21|Middle East, representative location|War & conflict
+Oslo_Accords|1993|59.91|10.75|Oslo, negotiation site|Diplomacy & government
+Arab_Spring|2010|35.04|9.49|Sidi Bouzid, Tunisia|Revolutions & independence
+Syrian_civil_war|2011|32.62|36.10|Daraa, Syria|War & conflict
+Rwandan_genocide|1994|-1.94|30.06|Rwanda, representative location|War & conflict
+Algerian_War|1954|36.75|3.06|Algeria, representative location|Revolutions & independence
+Mau_Mau_rebellion|1952|-1.29|36.82|Kenya, representative location|Revolutions & independence
+Congo_Crisis|1960|-4.32|15.31|Léopoldville, now Kinshasa|Turning points
+Nigerian_Civil_War|1967|6.45|7.51|Enugu, Nigeria|War & conflict
+Angolan_War_of_Independence|1961|-8.84|13.23|Angola, representative location|Revolutions & independence
+Soweto_uprising|1976|-26.25|27.86|Soweto, South Africa|Rights & society
+Berlin_Conference|1884|52.52|13.40|Berlin, Germany|Diplomacy & government
+Scramble_for_Africa|1881|0.00|20.00|Africa; representative continental marker|Turning points
+Zulu_Kingdom|1816|-28.33|31.42|KwaZulu-Natal, southern Africa|Civilizations
+Great_Zimbabwe|1200|-20.27|30.93|Zimbabwe plateau|Civilizations
+Songhai_Empire|1464|16.27|-0.04|Gao, West Africa|Civilizations
+Kingdom_of_Aksum|100|14.12|38.72|Aksum, Ethiopia|Civilizations
+Kingdom_of_Kush|-1070|18.53|31.82|Napata, present-day Sudan|Civilizations
+Kingdom_of_Benin|1200|6.34|5.63|Benin City, present-day Nigeria|Civilizations
+Mali_Empire|1235|12.60|-8.00|West Africa, representative location|Civilizations
+Ghana_Empire|700|15.66|-7.96|Koumbi Saleh, representative site|Civilizations
+Sasanian_Empire|224|28.85|52.57|Fars, Iran|Civilizations
+Achaemenid_Empire|-550|29.94|52.89|Pasargadae, present-day Iran|Civilizations
+Seleucid_Empire|-312|32.54|44.42|Babylon, early power center|Civilizations
+Han_dynasty|-202|34.26|108.95|Chang'an, now Xi'an|Civilizations
+Tang_dynasty|618|34.26|108.95|Chang'an, now Xi'an|Civilizations
+Song_dynasty|960|34.80|114.31|Kaifeng, China|Civilizations
+Yuan_dynasty|1271|39.91|116.40|Dadu, now Beijing|Civilizations
+Ming_dynasty|1368|32.06|118.80|Nanjing, China|Civilizations
+Qing_dynasty|1636|41.80|123.43|Shenyang, China|Civilizations
+Goryeo|918|37.97|126.55|Kaesong, Korean Peninsula|Civilizations
+Joseon|1392|37.57|126.98|Seoul, Korean Peninsula|Civilizations
+Tokugawa_shogunate|1603|35.68|139.69|Edo, now Tokyo|Civilizations
+Ayutthaya_Kingdom|1351|14.35|100.56|Ayutthaya, present-day Thailand|Civilizations
+Majapahit|1293|-7.56|112.38|Trowulan, Java|Civilizations
+Srivijaya|650|-2.99|104.76|Palembang, Sumatra, representative center|Civilizations
+Indonesian_National_Revolution|1945|-6.18|106.83|Jakarta, Indonesia|Revolutions & independence
+Philippine_Revolution|1896|14.60|120.98|Manila, Philippines|Revolutions & independence
+People_Power_Revolution|1986|14.59|121.06|Manila, Philippines|Revolutions & independence
+Cambodian_genocide|1975|11.56|104.93|Cambodia, representative location|War & conflict
+Australian_Federation|1901|-33.87|151.21|Sydney, Australia|Diplomacy & government
+Canadian_Confederation|1867|45.42|-75.70|Ottawa, Canada|Diplomacy & government
+New_Zealand_Wars|1845|-35.28|174.12|North Island, Aotearoa New Zealand|War & conflict
+Easter_Rising|1916|53.35|-6.26|Dublin, Ireland|Revolutions & independence
+Irish_War_of_Independence|1919|53.35|-6.26|Ireland, representative location|Revolutions & independence
+Dissolution_of_the_Soviet_Union|1991|55.75|37.62|Moscow, Russia|Turning points
+Yugoslav_Wars|1991|44.82|20.46|Former Yugoslavia, representative location|War & conflict
+Srebrenica_massacre|1995|44.11|19.30|Srebrenica, Bosnia and Herzegovina|War & conflict
+Velvet_Revolution|1989|50.08|14.43|Prague, Czechoslovakia|Revolutions & independence
+Carnation_Revolution|1974|38.72|-9.14|Lisbon, Portugal|Revolutions & independence
+European_Union|1993|50.85|5.69|Maastricht, Netherlands, treaty site|Diplomacy & government
+Treaty_of_Rome|1957|41.89|12.48|Rome, Italy|Diplomacy & government
+Brexit|2020|51.50|-0.12|London, United Kingdom|Diplomacy & government
+Black_Death|1347|37.94|13.37|Mediterranean Europe, representative location|Health & environment
+Plague_of_Justinian|541|41.01|28.98|Constantinople, now Istanbul|Health & environment
+Spanish_flu|1918|38.90|-77.04|Global pandemic; representative location|Health & environment
+Smallpox_eradication|1980|46.23|6.13|Geneva, WHO declaration|Health & environment
+Penicillin|1928|51.52|-0.17|London, discovery site|Discovery
+Germ_theory_of_disease|1861|48.84|2.31|Paris, representative research center|Discovery
+On_the_Origin_of_Species|1859|51.51|-0.13|London, publication site|Discovery
+Philosophiæ_Naturalis_Principia_Mathematica|1687|51.51|-0.13|London, publication site|Discovery
+De_revolutionibus_orbium_coelestium|1543|49.45|11.08|Nuremberg, publication site|Discovery
+Theory_of_relativity|1905|46.95|7.45|Bern, Switzerland|Discovery
+Discovery_of_nuclear_fission|1938|52.45|13.29|Berlin, research site|Discovery
+Manhattan_Project|1942|35.88|-106.30|Los Alamos, representative research site|Discovery
+Trinity_(nuclear_test)|1945|33.68|-106.48|New Mexico, United States|Discovery
+Sputnik_1|1957|45.92|63.34|Baikonur, launch site|Discovery
+Vostok_1|1961|45.92|63.34|Baikonur, launch site|Discovery
+Voyager_1|1977|28.61|-80.60|Cape Canaveral, launch site|Discovery
+Hubble_Space_Telescope|1990|28.61|-80.60|Kennedy Space Center, launch site|Discovery
+James_Webb_Space_Telescope|2021|5.24|-52.77|Kourou, launch site|Discovery
+Human_Genome_Project|2003|38.99|-77.10|Bethesda, representative research center|Discovery
+Discovery_of_the_Higgs_boson|2012|46.23|6.05|CERN, Switzerland|Discovery
+Event_Horizon_Telescope|2019|-23.03|-67.75|ALMA, one of the participating observatories|Discovery
+Chandrayaan-3|2023|13.72|80.23|Sriharikota, launch site|Discovery
+Artemis_II|2026|28.61|-80.60|Kennedy Space Center, launch site|Discovery
+High_Seas_Treaty|2026|40.75|-73.97|United Nations, New York|Health & environment
+Paris_Agreement|2015|48.94|2.43|Le Bourget, Paris conference site|Health & environment
+COVID-19_pandemic|2020|46.23|6.13|Geneva, WHO pandemic announcement|Health & environment
+Russian_invasion_of_Ukraine|2022|50.45|30.52|Kyiv, Ukraine, representative location|War & conflict
+September_11_attacks|2001|40.71|-74.01|New York; also Virginia and Pennsylvania|War & conflict
+2004_Indian_Ocean_earthquake_and_tsunami|2004|3.30|95.98|Off Sumatra, earthquake epicenter|Health & environment
+2008_financial_crisis|2008|40.71|-74.01|New York, representative financial center|Economy & trade
+2026_Nobel_Peace_Prize|2026|59.91|10.73|Oslo, Norway, announcement site|Rights & society
+Reformation|1517|51.87|12.65|Wittenberg, Germany|Ideas & belief
+Ninety-five_Theses|1517|51.87|12.65|Wittenberg, Germany|Ideas & belief
+Great_Schism|1054|41.01|28.98|Constantinople, representative location|Ideas & belief
+Council_of_Nicaea|325|40.43|29.72|Nicaea, now İznik|Ideas & belief
+Edict_of_Milan|313|45.46|9.19|Milan, Italy|Ideas & belief
+Council_of_Trent|1545|46.07|11.12|Trent, Italy|Ideas & belief
+Renaissance|1400|43.77|11.26|Florence, representative center|Art & culture
+Enlightenment|1700|48.86|2.35|Paris, representative center|Ideas & belief
+Scientific_Revolution|1543|49.45|11.08|Europe, representative publication site|Discovery
+Industrial_Revolution|1760|52.49|-1.90|Britain, representative industrial center|Economy & trade
+Suez_Canal|1869|30.59|32.27|Suez Canal, Egypt|Economy & trade
+Panama_Canal|1914|9.08|-79.68|Panama|Economy & trade
+Silk_Road|-130|34.26|108.95|Chang'an, representative eastern terminus|Economy & trade
+Age_of_Discovery|1415|35.89|-5.31|Ceuta, representative early expansion site|Discovery
+Magellan_expedition|1519|36.78|-6.35|Sanlúcar de Barrameda, departure site|Discovery
+Vasco_da_Gama|1498|11.26|75.78|Calicut, arrival of the sea route from Europe|Discovery
+Zheng_He|1405|32.06|118.80|Nanjing, fleet preparation center|Discovery
+Treaty_of_Tordesillas|1494|41.50|-5.00|Tordesillas, Spain|Diplomacy & government
+Treaty_of_Nanking|1842|32.06|118.80|Nanjing, China|Diplomacy & government
+Abolition_of_slavery|1833|51.50|-0.12|London, British Slavery Abolition Act|Rights & society
+Seneca_Falls_Convention|1848|42.91|-76.80|Seneca Falls, New York|Rights & society
+The_Communist_Manifesto|1848|51.51|-0.13|London, publication site|Ideas & belief
+The_Wealth_of_Nations|1776|51.51|-0.13|London, publication site|Ideas & belief

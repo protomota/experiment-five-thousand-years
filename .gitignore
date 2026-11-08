@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.atlas-work/
+.vercel/
+.env*
+!.env.example
+.DS_Store
+*.log
+public/film/assets/

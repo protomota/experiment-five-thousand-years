@@ -1,0 +1,29 @@
+{
+  "name": "experiment-five-thousand-years",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3007 --strictPort",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 3007",
+    "video:build": "node scripts/build-film.mjs",
+    "video:check": "hyperframes check .atlas-work/film --json",
+    "check": "node scripts/check-globe-flight.mjs && node scripts/check-globe-touch.mjs && node scripts/check-timeline.mjs",
+    "check:data": "node scripts/check-data.mjs"
+  },
+  "dependencies": {
+    "three": "latest",
+    "gsap": "latest",
+    "@hyperframes/player": "latest"
+  },
+  "devDependencies": {
+    "@types/three": "latest",
+    "typescript": "latest",
+    "vite": "latest",
+    "hyperframes": "latest"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}
