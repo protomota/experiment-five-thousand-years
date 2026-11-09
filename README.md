@@ -74,3 +74,7 @@ Publishing scripts require `sharp` and `@aws-sdk/client-s3` installed in `$ATLAS
 Built by [Brad Dunlap / Protomota](https://protomota.com). Inspired by [Joshua Barzon's post sharing a world-history timeline](https://x.com/JoshuaBarzon/status/2119199745583591641) and our [Everything We've Ever Launched](https://protomota.com/experiments/everything-launched) experiment.
 
 Read [CREDITS.md](CREDITS.md) before reusing text, data or media. The public source repository does not change the separate licenses of third-party material. Source code is published for inspection; no additional blanket software license is granted by this repository.
+
+## US history filter
+
+The visible World history / US history switch filters the globe, timeline, search, playback and next-story navigation together. The US collection contains 164 curated milestones, including all 47 presidencies, colonial events and direct US involvement overseas. It intersects with theme and era filters. Empty selections show a recovery action; unavailable eras are disabled. `?history=us` makes US views shareable and preserves them on reload. Editorial membership lives in `src/history-filter.ts`; geographic coordinates and the broad Americas region are not used as proxies for US history. Run `node scripts/check-history-filter.mjs` to check membership and filter combinations.

@@ -112,7 +112,7 @@ export class MapDetail {
   const edge=marker.position.clone().addScaledVector(cameraRight,markerRadius).project(this.camera);
   const markerSize=Math.hypot((edge.x-center.x)*width,(edge.y-center.y)*height);
   // Keep similar-sized outlines hidden; fade them in once clearly larger than the marker.
-  const opacity=THREE.MathUtils.smoothstep(outlineSize/Math.max(markerSize,1),1.5,2.2);
+  const opacity=marker.visible?THREE.MathUtils.smoothstep(outlineSize/Math.max(markerSize,1),1.5,2.2):0;
   this.highlight.visible=opacity>0;
   if(opacity===this.areaOpacity)return;
   this.areaOpacity=opacity;

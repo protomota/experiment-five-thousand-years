@@ -119,7 +119,7 @@ export class HistoryGlobe {
   for(const batch of this.pinBatches){batch.pins.forEach((pin,index)=>{const size=pin.visible?scale:0;matrix.makeScale(size,size,size).setPosition(pin.position);batch.mesh.setMatrixAt(index,matrix);});batch.mesh.instanceMatrix.needsUpdate=true;}
   this.pinScale=scale;this.pinsDirty=false;
  }
- filter(ids:Set<string>){for(const pin of this.pins.children)pin.visible=ids.has(pin.userData.id as string);this.pinsDirty=true;}
+ filter(ids:Set<string>){for(const pin of this.pins.children)pin.visible=ids.has(pin.userData.id as string);this.selected.visible=ids.has(this.active.id);this.pinsDirty=true;}
  private async focusArea(event:Milestone,immediate:boolean){
   if(!this.detail)return;
   this.detail.clearArea();this.host.dispatchEvent(new CustomEvent('area-change',{detail:null}));
